@@ -44,7 +44,8 @@ open build/AudioSwitcher.app
 
 run.sh creates the .app
 
-There is a pre-built .app file in the zipped file as well if you don't want to run it in terminal and just want to play with it.
+There is a pre-built .app file in the zipped file as well if you don't
+want to run it in terminal and just want to play with it.
 
 AudioSwitcher/
 ├── Sources/
