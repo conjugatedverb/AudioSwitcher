@@ -35,7 +35,7 @@ helpful for your own future projects. Let creativity reign free!
 Clone the repo and run these commands:
 
 ```bash
-git clone https://github.com/yourname/AudioSwitcher.git
+git clone https://github.com/conjugatedverb/AudioSwitcher.git
 unzip AudioSwitcher.zip
 cd AudioSwitcher
 swift build
